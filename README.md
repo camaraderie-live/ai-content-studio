@@ -1,5 +1,7 @@
 # AI Content Studio — 你的一人自媒體公司
 
+有任何問題可以直接在 [POVU Line 社群發問](https://line.me/ti/g2/sY3G_OfDiuG4LRRBebDYjClU6cVi9Awo_AL5ZQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
 把這個資料夾用 Claude 打開，你就擁有一間**專屬於你的小型 AI 創作公司**：它會先訪談你、建立你的品牌檔案，然後幫你——
 
 - 🎬 **剪影片、上字幕、做動畫特效**（用聊天的方式，不用學剪輯軟體）
