@@ -1,4 +1,4 @@
-# AI Content Studio — 你的一人自媒體公司
+# AI Content Studio — 專屬 AI 創作助理
 
 有任何問題可以直接在 [POVU Line 社群發問](https://line.me/ti/g2/sY3G_OfDiuG4LRRBebDYjClU6cVi9Awo_AL5ZQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 
