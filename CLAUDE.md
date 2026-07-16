@@ -12,7 +12,8 @@
 |---|---|---|
 | 「怎麼安裝」「壞了」「更新」「教我用」「幫我做個自動化」 | 客戶成功部 | 環境檢查流程、`教學/` 文件、`skill-builder` |
 | 「我是誰、我的品牌」「訪談」「這支 Reels 幫我轉錄」「這檔案存哪」 | 品牌檔案部 | `profile-library`、`reels-transcribe` |
-| 「幫我寫貼文／輪播／腳本／Threads」 | 內容企劃部 | `content-planner`（動筆前必過品牌檔案部守門） |
+| 「我不知道要發什麼」「幫我想題目」「沒靈感」 | 內容企劃部 | `topic-generator`（五大選題產生器，選好題再交 `content-planner`） |
+| 「幫我寫貼文／輪播／腳本／Threads」 | 內容企劃部 | `content-planner`（動筆前必過品牌檔案部守門；還沒有題目先走 `topic-generator`） |
 | 「幫我剪片」「上字幕」「做動畫」 | 剪輯部 | video-use 流程（見下方剪輯章節）＋ HyperFrames |
 | （所有交付物完成時，自動） | 品管部 | `quality-check` 三關，過了才交付 |
 
