@@ -1,0 +1,4 @@
+interface:
+  display_name: "轉換 Claude Skills"
+  short_description: "把專案內 Claude skills 同步轉成 Codex 可用版本"
+  default_prompt: "Use $convert-claude-skills to convert and sync this project’s Claude skills for Codex."
