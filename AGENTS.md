@@ -16,6 +16,12 @@ python3 .agents/skills/convert-claude-skills/scripts/convert.py --check
 
 第一次對話（不管客戶說什麼）先執行下面的環境檢查流程，除非環境早就是就緒狀態。
 
+## Git commit 命名規則
+
+- 所有 commit 訊息一律使用**繁體中文**，直接清楚描述這次做了什麼。
+- **不要使用任何前綴**，例如 `feat:`、`fix:`、`docs:`、`chore:`。
+- 範例：`更新 claude & codex skills`
+
 ## 公司組織與路由（客戶的需求進來，先分派給對的部門）
 
 | 客戶說的話像是…… | 部門 | 走哪個 skill／流程 |
