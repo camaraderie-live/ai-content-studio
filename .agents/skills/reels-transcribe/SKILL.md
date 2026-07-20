@@ -20,7 +20,7 @@ ffmpeg -y -i reel.* -vn -ac 1 -ar 16000 audio.mp3
 
 # 3. ElevenLabs 轉錄（金鑰沿用環境檢查時設定的那把）
 curl -s -X POST https://api.elevenlabs.io/v1/speech-to-text \
-  -H "xi-api-key: $(sed -n 's/^ELEVENLABS_API_KEY=//p' ~/.codex/skills/video-use/.env)" \
+  -H "xi-api-key: $(for p in ~/.gemini/config/skills/video-use/.env ~/.codex/skills/video-use/.env ~/.codex/skills/video-use/.env; do [ -f "$p" ] && sed -n 's/^ELEVENLABS_API_KEY=//p' "$p" && break; done)" \
   -F model_id=scribe_v1 \
   -F file=@audio.mp3
 ```
